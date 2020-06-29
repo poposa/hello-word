@@ -1,2 +1,2 @@
 # hello-word
-This is a simple project for testing Github
+This is a simple test for using Github
